@@ -55,10 +55,11 @@
 					<ul class="nav navbar-nav navbar-right">
 						<li><a href="#"><span
 								class="glyphicon glyphicon-shopping-cart"></span>GIỎ HÀNG</a></li>
-						<li><a href="#"><span class="glyphicon glyphicon-user"></span>
+								<li><a href="dangnhap/"><span class="glyphicon glyphicon-user"></span>
+								Sign In</a></li>
+						<li><a href=""><span class="glyphicon glyphicon-user"></span>
 								Sign Up</a></li>
-						<li><a href="#"><span class="glyphicon glyphicon-plus"></span>
-								Register</a></li>
+						
 						<li><a href="#"><span class="glyphicon glyphicon-log-in"></span>
 								Login</a></li>
 					</ul>

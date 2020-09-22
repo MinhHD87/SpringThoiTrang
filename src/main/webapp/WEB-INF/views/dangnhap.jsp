@@ -32,7 +32,7 @@
 		<div id="container-center-login-right">
 		<form action="">
 		<input type="text" class="maternial-textinput input-icon-email" placeholder="Email" /><br>
-		<input type="password" class="maternial-textinput input-icon-password" placeholder="password"><br>
+		<input style="margin-top: 8px;" type="password" class="maternial-textinput input-icon-password" placeholder="password"><br>
 		<input type="submit" class="maternial-primary-button" value="Đăng nhập"><br>
 		</form>
 		</div>
